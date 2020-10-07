@@ -45,12 +45,7 @@ navigate to `Run` -> `Run Without Debugging` or CTRL+F5 in VsCode
 ## Screenshot
 
 <table>
-  <tr>
-    <td>Home Page</td>
-     <td>Building Page</td>
-     <td>MapPage</td>
-  </tr>
-  <tr>
+    <tr>
     <td><img src="https://user-images.githubusercontent.com/54366663/95339802-185f8680-08d2-11eb-9508-eaf6d1021105.jpeg" width=250 height=480></td>
     <td><img src="https://user-images.githubusercontent.com/54366663/95339823-1dbcd100-08d2-11eb-8eb2-41aa080ad124.jpeg" width=250 height=480></td>
     <td><img src="https://user-images.githubusercontent.com/54366663/95339845-24e3df00-08d2-11eb-82b9-d71c09bd80ca.jpeg" width=250 height=480></td>
