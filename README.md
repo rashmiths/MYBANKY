@@ -23,7 +23,7 @@ samples, guidance on mobile development, and a full API reference.
 Download or clone this repo by using the link below:
 
 ```
-https://github.com/rashmiths/DEVELOPERS_CLUB_NITK
+https://github.com/rashmiths/MYBANKY.git
 ```
 
 **Step 2:**
