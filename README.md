@@ -51,8 +51,10 @@ navigate to `Run` -> `Run Without Debugging` or CTRL+F5 in VsCode
      <td>MapPage</td>
   </tr>
   <tr>
-    <td><img src="https://user-images.githubusercontent.com/54366663/94993413-7b89aa00-05ae-11eb-8fdb-a12aa1e65885.jpeg" width=250 height=480></td>
-    <td><img src="https://user-images.githubusercontent.com/54366663/94993555-7d07a200-05af-11eb-81fc-9605556f2817.jpeg" width=250 height=480></td>
-    <td><img src="https://user-images.githubusercontent.com/54366663/94994638-85afa680-05b6-11eb-829d-196aaa61f0b3.jpeg" width=250 height=480></td>
+    <td><img src="https://user-images.githubusercontent.com/54366663/95339802-185f8680-08d2-11eb-9508-eaf6d1021105.jpeg" width=250 height=480></td>
+    <td><img src="https://user-images.githubusercontent.com/54366663/95339823-1dbcd100-08d2-11eb-8eb2-41aa080ad124.jpeg" width=250 height=480></td>
+    <td><img src="https://user-images.githubusercontent.com/54366663/95339845-24e3df00-08d2-11eb-82b9-d71c09bd80ca.jpeg" width=250 height=480></td>
+    <td><img src="https://user-images.githubusercontent.com/54366663/95339861-290ffc80-08d2-11eb-9906-0f823450a059.jpeg" width=250 height=480></td>
   </tr>
  </table>
+
